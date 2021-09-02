@@ -11,4 +11,6 @@
 
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/joseph-kranak/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkranak&layout=compact)](https://github.com/jkranak)
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
