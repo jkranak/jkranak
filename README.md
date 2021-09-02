@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome
+#### I'm a full-stack developer, specializing in the front-end, especially JavaScript, TypeScript, and React.
 
-<!--
-**jkranak/jkranak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My latest project is**: [TheIching.net](https://github.com/jkranak/iching-pwa) (live version: [https://theiching.net](https://theiching.net))
 
-Here are some ideas to get you started:
+**I love working with**: JavaScript, React, TypeScript, Sass, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I’m currently learning**: Ruby
+
+**Outside of coding** I teach philosphy to college students and I love photography and fitness.
+
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/joseph-kranak/)
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
